@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Subrahmanyam, an aspiring cybersecurity professional.
 - 👀 I’m interested in security roles, particularly SOC analyst and security engineering positions. I hold CompTIA Security+ (701), and AWS Solutions Architect (SAA-C03) certifications, and I am currently preparing for the CCNA examination!
-- 🌱 I enjoy keeping up with current cybersecurity trends, and on my GitHub you'll see projects in offensive security, network security, and my ongoing work in AI security. I am also currently working on a thesis in Quantum COmputing, with projected completion this December (2024)
+- 🌱 I enjoy keeping up with current cybersecurity trends, and on my GitHub you'll see projects in offensive security, network security, and my ongoing work in AI security. I am also currently working on a thesis in Quantum Computing security and resilience, with projected completion this December (2024)
 - Linkedin: https://www.linkedin.com/in/yashsubrahmanyam/
 - email: yash.subrahmanyam1@gmail.com
 
