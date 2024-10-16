@@ -3,6 +3,7 @@
 - 🌱 I enjoy keeping up with current cybersecurity trends, and on my GitHub you'll find projects in offensive security, network security, and my ongoing work in AI security. I am also currently working on a thesis in Quantum Computing security and resilience, with projected completion this December (2024)
 - Linkedin: https://www.linkedin.com/in/yashsubrahmanyam/
 - email: yash.subrahmanyam1@gmail.com
+- website: www.yashsubrahmanyam.com
 
 <!---
 yashsubrahmanyam/yashsubrahmanyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
